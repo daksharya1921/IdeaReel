@@ -46,6 +46,8 @@ Make sure you have Node.js installed.
    npm run dev
    ```
 
+   
+
 5. **Open the App:**
    Navigate to [http://localhost:3000](http://localhost:3000) in your browser.
 
@@ -56,3 +58,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+
+Created by Daksh Arya
