@@ -50,6 +50,7 @@ Make sure you have Node.js installed.
 
 5. **Open the App:**
    Navigate to [http://localhost:3000](http://localhost:3000) in your browser.
+   linkedIn
 
 ## 🤝 Contribution
 
